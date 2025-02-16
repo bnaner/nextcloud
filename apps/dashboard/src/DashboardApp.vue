@@ -226,7 +226,7 @@ export default {
 					withName: t('dashboard', 'Good morning, {name}', { name: this.displayName }, undefined, { escape: false }),
 				},
 				afternoon: {
-					generic: t('dashboard', 'Good afternoon'),
+					generic: t('dashboard', 'Good afternoon '),
 					withName: t('dashboard', 'Good afternoon, {name}', { name: this.displayName }, undefined, { escape: false }),
 				},
 				evening: {
