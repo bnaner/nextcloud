@@ -1,5 +1,6 @@
 <?php
-
+// Developed using nextcloud dashboard tutorial
+// https://cloud.nextcloud.com/s/iyNGp8ryWxc7Efa?path=/ 
 declare(strict_types=1);
 
 namespace OCA\ClockDashboard\AppInfo;
