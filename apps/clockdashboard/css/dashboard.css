@@ -1,5 +1,5 @@
 .icon-clockdashboard {
-	background-image: url('../img/app-dark.svg');
+	background-image: url('../img/clock-icon.svg');
 	filter: var(--background-invert-if-dark);
 }
 

@@ -9,6 +9,7 @@
 	<licence>agpl</licence>
 	<author mail="laythghnaim@ufl.edu" homepage="">Layth Ghnaim</author>
 	<namespace>ClockDashboard</namespace>
+	<category>integration</category>
 	<category>dashboard</category>
 	<bugs>https://github.com/nextcloud/server/issues/38726</bugs>
 	<dependencies>
