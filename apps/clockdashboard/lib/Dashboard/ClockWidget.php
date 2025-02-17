@@ -35,7 +35,7 @@ class ClockWidget implements IAPIWidget {
 
 	public function getTitle(): string {
 		date_default_timezone_set("America/New_York");
-		return $this->l10n->t(date('h:i A'));
+		return $this->l10n->t(date('M d h:i A'));
 	}
 
 	public function getOrder(): int {
